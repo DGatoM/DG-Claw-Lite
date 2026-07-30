@@ -44,6 +44,19 @@ Quer dois cliques em vez de comando? Peça pro próprio agente: *"cria um atalho
 na minha área de trabalho pra te acordar"* — ele escreve o `.bat` (Windows) ou
 o `.command` (Mac) pra você.
 
+## Manutenção e socorro
+
+Todo dia (ou quando você pedir *"faz sua manutenção de memória"*), o agente
+arruma a casa: relê o dia, atualiza o caderninho, promove o que virou permanente
+pro livro de memória e escreve um diário curto — o registro que sobra depois que
+o sistema apaga o histórico bruto da conversa.
+
+Se algo parecer errado — ele mudo, lento ou esquecido —, rode
+`/dgclaw-lite:doctor` (ou peça pra ele: *"roda seu diagnóstico"*). Ele confere a
+estrutura, arruma a memória bagunçada perguntando antes de mudar e salva um
+`diagnostico-<data>.md` **sem nenhum dado pessoal**, pronto pra você mandar pra
+quem te deu o plugin.
+
 ## Limitações — conversa franca
 
 - Computador desligado ou dormindo = agente dormindo. **Não é 24/7.**
