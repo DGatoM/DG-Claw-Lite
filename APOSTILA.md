@@ -34,7 +34,7 @@ mês, com a gravação da aula ao lado.
 1. Claude Desktop  →  aba "Claude Code"
 2. Criar a pasta do seu agente (ex.: Documentos\MeuAgente)
 3. No Claude Desktop, selecionar essa pasta
-4. Baixar o pacote DG Claw (o .zip da plataforma)
+4. Baixar o pacote DG Claw na plataforma (cpdf.ai — ver quadro abaixo)
 5. Na aba Claude Code, colar o PROMPT 1 (abaixo)
 6. Colar o PROMPT 2 (abaixo)
 7. Seguir o instalador, respondendo o que ele perguntar
@@ -42,6 +42,31 @@ mês, com a gravação da aula ao lado.
 9. Colar o token no Claude
 10. Seguir o resto das instruções até o teste final
 ```
+
+### Onde baixar o pacote DG Claw
+
+Endereço direto do curso:
+
+```
+https://cpdf.ai/cursos/imersao-super-funcionario-com-claude
+```
+
+O arquivo fica na **Aula 5 — Materiais Extras**, junto com esta apostila e os
+slides.
+
+### Como entrar na plataforma (passo a passo)
+
+1. Acesse **cpdf.ai**.
+2. Use **o mesmo e-mail da compra da imersão** (o e-mail que você usou na
+   Kiwify). Se usar outro, o curso não aparece.
+3. **Primeira vez?** O jeito certo é abrir o e-mail de boas-vindas que a
+   plataforma enviou e criar sua senha por ele.
+4. **Não achou esse e-mail?** Sem problema: na tela de login, clique em
+   **"Esqueci minha senha"**, informe **esse mesmo e-mail da compra** e crie uma
+   senha nova por ali.
+5. Já dentro da plataforma, vá em **Cursos** → **Imersão Super Funcionário com
+   Claude** → **Aula 5: Materiais Extras**.
+6. Baixe o pacote **DG Claw** (arquivo `.zip`) e siga com o PROMPT 1 abaixo.
 
 ### PROMPT 1 — traz o pacote e começa a instalação
 
@@ -122,8 +147,13 @@ gravação ao lado.
 
 ### Cheguei atrasado / não recebi as instruções. Onde está tudo?
 
-Na plataforma **cpdf.ai**, no curso **Imersão Super Funcionário com Claude**, na
-aula **Materiais Extras**: esta apostila, os slides e o pacote do agente.
+Na plataforma **cpdf.ai**, no curso **Imersão Super Funcionário com Claude**,
+na **Aula 5 — Materiais Extras**: esta apostila, os slides e o pacote do agente.
+Endereço direto: https://cpdf.ai/cursos/imersao-super-funcionario-com-claude
+
+Entre com **o mesmo e-mail que você usou na compra** (Kiwify). Se nunca criou
+senha, use **"Esqueci minha senha"** na tela de login com esse mesmo e-mail — o
+passo a passo completo está na Parte 1 desta apostila.
 
 ## B. Onde exatamente eu rodo isso?
 
@@ -391,6 +421,15 @@ Telegram (veja a pergunta sobre Channels, no bloco D).
 ### Vai ficar gravada?
 
 Sim, para quem tem acesso com gravação: fica na plataforma **cpdf.ai** por 1 ano.
+
+### Não consigo acessar a plataforma / o curso não aparece.
+
+Quase sempre é **e-mail diferente do da compra**. Entre em **cpdf.ai** com o
+mesmo e-mail usado na Kiwify; se nunca criou senha, clique em **"Esqueci minha
+senha"** na tela de login e gere uma com esse e-mail. Depois: **Cursos** →
+**Imersão Super Funcionário com Claude** → **Aula 5: Materiais Extras**. Se
+ainda assim o curso não aparecer, fale com o suporte informando o e-mail da
+compra.
 
 ### Não comprei a gravação. Ainda dá?
 
